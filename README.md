@@ -1,4 +1,4 @@
-# 📌 Progetto: SIto Web Personale
+# 📌 Progetto: Sito Web Personale
 
 ## 📋 Descrizione
 Questo progetto è il mio sito web personale, dove descrivo chi sono e cosa faccio. È stato sviluppato utilizzando **HTML5 e Bootstrap** per garantire un'interfaccia moderna e responsive.
@@ -8,7 +8,7 @@ Per installare e avviare il progetto, segui questi passaggi:
 
 1. **Clona il repository**
    ```sh
-   git clone https://github.com/tuo-username/nome-repo.git
+   git clone https://github.com/AntoDev00/AntoDev00.github.io
    ```
 2. **Accedi alla cartella del progetto**
    ```sh
@@ -28,8 +28,7 @@ Per installare e avviare il progetto, segui questi passaggi:
 ```
 📦 nome-repo
  ┣ 📂 assets
- ┃ ┣ 📂 css
- ┃ ┃ ┗ styles.css
+ ┃ ┣
  ┃ ┣ 📂 js
  ┃ ┃ ┗ script.js
  ┃ ┗ 📂 img
