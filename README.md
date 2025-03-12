@@ -27,6 +27,8 @@ Per installare e avviare il progetto, segui questi passaggi:
 ## 📂 Struttura del progetto
 ```
 📦 AntoDev00.github.io
+ ┣ 📂 pdf
+ ┃ ┣ Antonio Abbruzzese.pdf
  ┣ 📂 asset
  ┃ ┣ Abstract11.jpg
  ┃ ┣ Abstract11.png
