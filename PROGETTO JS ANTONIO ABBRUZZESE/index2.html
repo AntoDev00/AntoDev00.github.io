@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <script>
+        const oggi = new Date();
+        const options = [
+            {
+                year: "numeric",
+                month: "2-digit",
+                day: "2-digit",
+                weekday: "long",
+            }
+        ]
+        console.log(oggi.toLocaleTimeString(undefined, options))
+
+        options.forEach(option => {
+            const element = document.createElement("h2")
+            const dataFormattata = oggi.toLocaleTimeString(undefined, options)
+            const text = document.createTextNode(dataFormattata)
+            element.appendChild(text)
+            document.querySelector("body").appendChild(element)
+        });
+    </script>
+</body>
+
+</html>
