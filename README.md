@@ -27,26 +27,29 @@ Per installare e avviare il progetto, segui questi passaggi:
 ## 📂 Struttura del progetto
 ```
 📦 AntoDev00.github.io
- ┣ 📂 pdf
- ┃ ┣ Antonio Abbruzzese.pdf
  ┣ 📂 asset
- ┃ ┣ Abstract11.jpg
- ┃ ┣ Abstract11.png
- ┃ ┣ Abstract2.jpg
- ┃ ┣ Abstract22.jpg
- ┃ ┣ Abstract3.jpg
- ┃ ┣ Abstract33.jpg
- ┃ ┣ Ciao, mi chiamo Antonio.jpg
- ┃ ┣ Desk.jpg
- ┃ ┣ FotoGatto.jpg.JPG
- ┃ ┣ HotPotChinese.jpg
- ┃ ┣ Plane.jpg
- ┃ ┣ SeoImage.jpg
- ┃ ┣ SignUp.jpg
- ┃ ┣ Space.jpg
- ┃ ┣ c7ab97b7-1580-4d9b-ac33-ea3020e09933.JPG
- ┃ ┣ download.png
- ┃ ┣ logodev.png
+ ┃ ┣ 📂 pdf
+ ┃ ┃  ┣ Antonio Abbruzzese.pdf
+ ┃ ┣ 📂 css
+ ┃ ┃  ┣style.css
+ ┃ ┣ 📂 img
+ ┃ ┃  ┣ Abstract11.jpg
+ ┃ ┃  ┣ Abstract11.png
+ ┃ ┃  ┣ Abstract2.jpg
+ ┃ ┃  ┣ Abstract22.jpg
+ ┃ ┃  ┣ Abstract3.jpg
+ ┃ ┃  ┣ Abstract33.jpg
+ ┃ ┃  ┣ CiaomichiamoAntonio.jpg
+ ┃ ┃  ┣ Desk.jpg
+ ┃ ┃  ┣ FotoGatto.jpg.JPG
+ ┃ ┃  ┣ HotPotChinese.jpg
+ ┃ ┃  ┣ Plane.jpg
+ ┃ ┃  ┣ SeoImage.jpg
+ ┃ ┃  ┣ SignUp.jpg
+ ┃ ┃  ┣ Space.jpg
+ ┃ ┃  ┣ c7ab97b7-1580-4d9b-ac33-ea3020e09933.JPG
+ ┃ ┃  ┣ download.png
+ ┃ ┃  ┣ logodev.png
  ┣ index.html
  ┣ chisono.html
  ┣ portfolio.html
