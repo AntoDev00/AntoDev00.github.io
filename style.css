@@ -4,25 +4,25 @@ body {
     min-height: 100vh;
 }
 
-hover-border:hover {
+.hover-border:hover {
     border: 1px solid rgb(247, 236, 255) !important;
 }
 
-carousel-container {
+.carousel-container {
     width: 100%;
     overflow: hidden;
     white-space: nowrap;
     position: relative;
 }
 
-carousel-track {
+.carousel-track {
     display: flex;
     animation: scroll 20s linear infinite;
     width: max-content;
     /* Velocità regolabile */
 }
 
-carousel-track img {
+.carousel-track img {
     width: auto;
     /* Regola la larghezza in base al contenuto */
     height: 200px;
