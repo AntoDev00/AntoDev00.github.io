@@ -1,0 +1,42 @@
+.body {
+    background: url("https://AntoDev00.github.io/asset/img/Abstract11.jpg") no-repeat center center fixed;
+    background-size: cover;
+    min-height: 100vh;
+}
+
+.hover-border:hover {
+    border: 1px solid rgb(247, 236, 255) !important;
+}
+
+.carousel-container {
+    width: 100%;
+    overflow: hidden;
+    white-space: nowrap;
+    position: relative;
+}
+
+.carousel-track {
+    display: flex;
+    animation: scroll 20s linear infinite;
+    width: max-content;
+    /* Velocità regolabile */
+}
+
+.carousel-track img {
+    width: auto;
+    /* Regola la larghezza in base al contenuto */
+    height: 200px;
+    /* Puoi modificare l'altezza */
+    margin-right: 0;
+    /* Nessuno spazio tra immagini */
+}
+
+@keyframes scroll {
+    from {
+        transform: translateX(0%);
+    }
+
+    to {
+        transform: translateX(-50%);
+    }
+}
