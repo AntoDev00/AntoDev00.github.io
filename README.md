@@ -1,21 +1,43 @@
 📌 Progetto: Sito Web Personale
 📋 Descrizione
-Questo progetto è il mio sito web personale, dove descrivo chi sono e cosa faccio. È stato sviluppato utilizzando HTML5 e Bootstrap per garantire un'interfaccia moderna e responsive.
+Benvenuto nel mio sito web personale! Qui troverai informazioni su di me e sul mio lavoro. Ho creato il sito utilizzando HTML5 per la struttura, CSS3 e Bootstrap per un design moderno e responsive. L'obiettivo è offrire un'esperienza di navigazione fluida e accessibile su ogni dispositivo.
 
 🚀 Installazione
-Per installare e avviare il progetto, segui questi passaggi:
+Per installare e avviare il progetto sul tuo computer, segui questi semplici passaggi:
 
-Clona il repository
+Clona il repository:
+
+bash
+Copia
+Modifica
 git clone https://github.com/AntoDev00/AntoDev00.github.io
-Accedi alla cartella del progetto
+Accedi alla cartella del progetto:
+
+bash
+Copia
+Modifica
 cd AntoDev00.github.io
-Apri il file index.html direttamente nel browser oppure utilizza un server locale:
-npx serve   # Se hai Node.js installato
+Apri il file index.html direttamente nel browser oppure utilizza un server locale per una migliore esperienza di navigazione:
+
+Se hai Node.js installato, puoi avviare un server locale con il comando:
+
+bash
+Copia
+Modifica
+npx serve
 🛠️ Tecnologie utilizzate
-HTML5 – Struttura delle pagine web
-CSS3 + Bootstrap – Stile e layout responsive
-JavaScript – Per interattività avanzata
+HTML5 – Per la struttura delle pagine web.
+
+CSS3 + Bootstrap – Per lo stile e la creazione di layout responsive.
+
+JavaScript – Per aggiungere interattività avanzata e dinamismo al sito.
+
 📂 Struttura del progetto
+Il progetto è organizzato come segue:
+
+lua
+Copia
+Modifica
 📦 AntoDev00.github.io
  ┣ 📂 pdf
  ┃ ┣ Antonio Abbruzzese.pdf
@@ -43,6 +65,12 @@ JavaScript – Per interattività avanzata
  ┣ contatti.html
  ┣ README.md
 📄 Licenza
-Questo progetto è distribuito sotto licenza MIT. Sentiti libero di modificarlo e migliorarlo!
+Questo progetto è distribuito sotto la licenza MIT. Puoi modificarlo, migliorarlo e utilizzarlo come preferisci!
 
-Se hai domande o suggerimenti, contattami a [aabbruzzeselive@gmail.com] o su GitHub. 😊
+📬 Contatti
+Se hai domande, suggerimenti o feedback, non esitare a contattarmi tramite:
+
+📧 Email: [aabbruzzeselive@gmail.com]
+
+💬 GitHub: https://github.com/AntoDev00
+
